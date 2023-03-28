@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+    
+}
+
+#h3Contato{
+    text-align:right;
+}
+
+#topoContato{
+    background-color: black;
+    color: rgb(229, 255, 0);
+    border-radius: 8px;
+    text-align: center;
+    height: 70px;
+    border: yellow ridge 12px;
+    
+}
+#logo{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 30px;
+    position:absolute;   
+}
+
+
